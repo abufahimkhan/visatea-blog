@@ -60,7 +60,7 @@ const Footer: React.FC = () => {
                 </h3>
                 <p className="flex items-center text-gray-500 mb-4">
                   <FaMapMarkerAlt className="mr-2 text-red-500" />
-                  House no GA-36, Shahjadpur, Gulshan, Dhaka, Bangladesh 1212
+                  H19, R 25/B, 12/D, pallabi Dhaka
                 </p>
                 <p className="flex items-center text-gray-500 mb-4">
                   <FaMapMarkerAlt className="mr-2 text-red-500" />

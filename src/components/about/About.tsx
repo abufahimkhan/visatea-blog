@@ -28,16 +28,16 @@ const About = () => {
               STUDY ABROAD<span className="text-indigo-600"> WITH EASE!</span>
             </h2>
             <p className="text-gray-700">
-              Visa Tea is a renowned visa consulting company committed to
+              {`Visa Tea is a renowned visa consulting company committed to
               assisting people and families in navigating the challenging world
               of international migration. We offer thorough, knowledgeable
               solutions to match your demands, regardless of the kind of
-              immigration process you're pursuing.
+              immigration process you're pursuing.`}
             </p>
             <p className="text-gray-700 mt-4">
-              By working with Visa Tea, you can be sure that every stage of your
+              {` By working with Visa Tea, you can be sure that every stage of your
               trip will be managed with the highest level of skill and
-              attention.
+              attention.`}
             </p>
           </div>
         </div>
@@ -53,17 +53,17 @@ const About = () => {
             Company Overview
           </h3>
           <p className="text-gray-700">
-            VisaTea is a premier consultancy firm based in Bangladesh,
+            {` VisaTea is a premier consultancy firm based in Bangladesh,
             specializing in comprehensive visa services and educational guidance
             for students and travelers alike. With an international office in
             Dhaka, we have established ourselves as a trusted leader in the
             fields of student visas, tourist visas, spouse visas, air ticket
-            support, tour packages, and IT services.
+            support, tour packages, and IT services.`}
           </p>
           <p className="text-gray-700 mt-4">
-            Our business name, VisaTea, signifies our commitment to Technology,
+            {`Our business name, VisaTea, signifies our commitment to Technology,
             Education, and Air—essential elements in our holistic approach to
-            client satisfaction.
+            client satisfaction.`}
           </p>
         </div>
       </section>
@@ -75,11 +75,11 @@ const About = () => {
             Our Mission
           </h3>
           <p className="text-gray-700">
-            At VisaTea, our mission is to empower individuals by providing
+            {` At VisaTea, our mission is to empower individuals by providing
             accessible pathways to education and travel opportunities. We aim to
             bridge the gap between aspiring students and global educational
             institutions, ensuring they have the resources and support needed to
-            achieve their goals.
+            achieve their goals.`}
           </p>
         </div>
         <div className="bg-gray-200 rounded-lg p-6 shadow-lg">
@@ -87,11 +87,11 @@ const About = () => {
             Our Vision
           </h3>
           <p className="text-gray-700">
-            Our vision is to create a world where education and cultural
+            {`   Our vision is to create a world where education and cultural
             diversity thrive without borders. Studying abroad can be a
             life-changing experience for young individuals, inspiring them
             through ambition, cultural exchange, and a competitive business
-            environment.
+            environment.`}
           </p>
         </div>
       </section>
@@ -126,11 +126,11 @@ const About = () => {
             Recent Success
           </h3>
           <p className="text-gray-700">
-            Over the past three years, we have consistently grown and processed
+            {`  Over the past three years, we have consistently grown and processed
             a significant number of student applications, achieving a success
             rate that reflects our dedication to excellence. Since our
             inception, we have successfully processed numerous student files,
-            helping them achieve their dreams of studying abroad.
+            helping them achieve their dreams of studying abroad.`}
           </p>
         </div>
       </section>

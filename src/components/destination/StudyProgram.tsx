@@ -114,15 +114,15 @@ const StudyProgram = () => {
           Study Programs & Eligibility
         </h2>
         <p className="text-gray-700">
-          Discover universities and IELTS requirements for Master's and
-          Bachelor's programs.
+          {` Discover universities and IELTS requirements for Master's and
+          Bachelor's programs.`}
         </p>
       </section>
 
       {/* Master's Programs Section */}
       <section className="mt-8">
         <h3 className="text-xl font-semibold text-black mb-4 text-center">
-          Master’s Programs
+          {`Master’s Programs`}
         </h3>
         <div className="overflow-x-auto">
           <table className="table-auto w-full border-collapse border border-gray-300">

@@ -70,7 +70,7 @@ const StudyDestination = () => {
   return (
     <div className="p-5 max-w-full bg-white shadow-lg">
       {/* Header Section */}
-      <div className="relative min-w-full h-96 md:h-[450px] overflow-hidden">
+      <div className="relative min-w-full h-36 md:h-[450px] overflow-hidden">
         <Image
           src="/destination/destiny.png"
           alt="Banner Image"
@@ -130,14 +130,12 @@ const StudyDestination = () => {
           <table className="table-auto w-full border-collapse border border-gray-300">
             <thead className="bg-gray-100">
               <tr>
+                <th className="px-4 py-2 text-left text-sm font-medium text-gray-600 border border-gray-300"></th>
                 <th className="px-4 py-2 text-left text-sm font-medium text-gray-600 border border-gray-300">
-                  #
+                  Documents Required
                 </th>
                 <th className="px-4 py-2 text-left text-sm font-medium text-gray-600 border border-gray-300">
-                  Document Name
-                </th>
-                <th className="px-4 py-2 text-left text-sm font-medium text-gray-600 border border-gray-300">
-                  Icon
+                  Formatting
                 </th>
               </tr>
             </thead>

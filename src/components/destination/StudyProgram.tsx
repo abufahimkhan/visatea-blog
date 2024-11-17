@@ -138,7 +138,7 @@ const StudyProgram = () => {
             </thead>
             <tbody>
               {mastersPrograms.map((program, index) => (
-                <tr key={index} className="even:bg-gray-50">
+                <tr key={nanoid()} className="even:bg-gray-50">
                   <td className="px-4 py-2 border border-gray-300 text-sm font-medium text-gray-700">
                     {program.ielts}
                   </td>
@@ -173,7 +173,7 @@ const StudyProgram = () => {
             </thead>
             <tbody>
               {bachelorsPrograms.map((program, index) => (
-                <tr key={index} className="even:bg-gray-50">
+                <tr key={nanoid()} className="even:bg-gray-50">
                   <td className="px-4 py-2 border border-gray-300 text-sm font-medium text-gray-700">
                     {program.ielts}
                   </td>

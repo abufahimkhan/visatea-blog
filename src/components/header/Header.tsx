@@ -37,7 +37,7 @@ export default function Header() {
                 alt="Logo"
                 width={150}
                 height={90}
-                className="object-contain"
+                className="object-contain w-20 h-12 sm:w-28 sm:h-20 lg:w-36 lg:h-24"
               />
             </a>
           </div>

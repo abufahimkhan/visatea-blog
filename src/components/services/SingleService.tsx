@@ -71,7 +71,7 @@ const SingleService = () => {
   return (
     <div className="p-5 max-w-full bg-white shadow-lg">
       {/* Header Section with Blurry Background */}
-      <div className="relative min-w-full h-96 md:h-[450px] overflow-hidden">
+      <div className="relative min-w-full h-36 md:h-[450px] overflow-hidden">
         <Image
           src="/service/service.png"
           alt="Banner Image"
